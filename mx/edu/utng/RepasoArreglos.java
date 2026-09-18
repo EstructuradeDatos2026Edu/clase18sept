@@ -10,6 +10,6 @@ public class RepasoArreglos{
 
 		//Indices
 		nombres[0] = "Juan ALberto";
-		nombres[11] = "Juan Felipe";
+		
 }
 }
